@@ -1,0 +1,17 @@
+{
+  "name": "nevets",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "src/index.ts",
+  "repository": "https://github.com/narutopig/nevets",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.48.1",
+    "@typescript-eslint/parser": "^5.48.1",
+    "eslint": "^8.32.0"
+  }
+}
